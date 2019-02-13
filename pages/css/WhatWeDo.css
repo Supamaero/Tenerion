@@ -1,0 +1,207 @@
+
+.navigation_bar{
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+
+
+.main_container{
+	width: 90%;
+	height: 290vh;
+	background-color: white;
+
+}
+
+
+.What_We_Do_Paragraph {
+    display: inline-block;
+    font-size: 60px;
+ 	margin-top: 0;
+    font-weight:100;
+    letter-spacing: 1px;
+    padding: 0;
+    margin-left: 67px;
+}
+
+
+.The_group{
+	margin-top: 80px;
+	margin-left: 67px;
+	width: 600px;
+    display:block;
+    font-size: 27px;
+    letter-spacing:0.5px;
+    word-spacing: 2px;
+    
+}
+
+
+.what_we_do_images{
+	background-image:url(../image/building1.jpg);
+	background-size:cover;
+	width: 100%;
+	height:500px;
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+.container_bottom{
+	width: 80%;
+	margin-top: 40px;
+	margin-right: auto;
+	margin-left: auto;
+	height: 600px;
+}
+
+/*===========CONTAINER BOTTOM RIGHT==========*/
+.container_bottom_left{
+
+	display:block;
+	width: 50%;
+	float: left;
+	height:790px;
+	clear:right;
+	
+}
+
+.container_paragraph1{
+	
+	width: 400px;
+	font-size: 24px;
+	letter-spacing: 0.4px;
+	word-spacing: 1px;
+	line-height: 30px;
+
+}
+
+
+.container_bottom_image_left{
+	background-image: url(../image/building1.jpg);
+	background-size: cover;
+	margin-top:120px;
+	width: 300px;
+	height: 400px;
+
+}
+
+
+/*================CONTAINER BOTTOM RIGHT==========*/
+
+.container_bottom_right{
+	width: 50%;
+	float:right;
+	height:790px;
+
+
+	
+}
+
+
+
+.ownership{
+	display: inline-block;
+	font-size: 24px;
+	padding-bottom: 15px;
+	padding-right: 100px;
+	border-bottom: 1px solid black;
+}
+
+
+.ongoing{
+	margin-top: 20px;
+	font-size:15px; 
+
+}
+
+.objectives{
+	margin-top: 8px;
+	font-size:15px; 
+
+
+}
+
+.identify{
+	margin-top: 8px;
+	font-size:15px; 
+}
+
+
+.partnership{
+	margin-top: 30px;
+	display: inline-block;
+	font-size: 24px;
+	padding-bottom: 15px;
+	padding-right: 100px;
+	border-bottom: 1px solid black;
+}
+
+
+.main{
+	margin-top: 20px;
+	font-size:15px; 
+
+}
+
+
+.ventures{
+	margin-top: 30px;
+	display: inline-block;
+	font-size: 24px;
+	padding-bottom: 15px;
+	padding-right: 100px;
+	border-bottom: 1px solid black;
+}
+
+
+.partner{
+	margin-top: 20px;
+	font-size:15px; 
+
+}
+
+.look{
+	margin-top: 8px;
+	font-size:15px; 
+
+}
+
+.believe{
+	margin-top: 8px;
+	font-size:15px; 
+
+}
+
+
+.underwriting{
+	margin-top: 30px;
+	display: inline-block;
+	font-size: 24px;
+	padding-bottom: 15px;
+	padding-right: 100px;
+	border-bottom: 1px solid black;
+
+
+}
+
+
+.group{
+	margin-top: 20px;
+	font-size:15px; 
+
+}
+
+
+.access{
+	margin-top: 8px;
+	font-size:15px; 
+}
+
+
+.bottom22{
+	margin-top:200px;
+	width: 80%;
+}

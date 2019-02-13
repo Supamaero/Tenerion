@@ -1,0 +1,197 @@
+.navigation_bar{
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+
+
+.main_container{
+	width: 80%;
+	height: 200vh;
+	background-color: white;
+
+}
+
+
+
+.contact_paragraph{
+	display: inline-block;
+    font-size: 60px;
+ 	margin-top: 0;
+    font-weight:100;
+    letter-spacing: 1px;
+    padding: 0;
+    margin-left: 0px;
+    margin-bottom: 40px;
+}
+
+
+
+/*=================ADDRESS==============*/
+
+.address_container_left{
+	margin-top: 20px;
+	display:block;
+	width: 60%;
+	float: left;
+	height:450px;
+	clear:right;
+	//background-color: pink;
+}
+
+
+.tenerion_group_left{
+	display: inline-block;
+	margin-left: 0;
+	margin-top: 0;
+	//border:2px solid black;
+	font-size: 18px;
+}
+
+
+.level1{
+	//border:2px solid black;
+	display:block;
+	margin-top: 30px;
+	font-size: 17px;
+	letter-spacing: 0.5px;
+	width: 280px;
+}
+
+.po_box{
+	//border:2px solid black;
+	display:block;
+	margin-top: 30px;
+	font-size: 17px;
+	letter-spacing: 0.5px;
+	width: 280px;
+}
+
+.number1{
+	display:block;
+	margin-top: 30px;
+	font-size: 17px;
+	letter-spacing: 0.5px;
+	width: 200px;
+}
+
+.info1{
+	display:block;
+	margin-top: 1px;
+	font-size: 17px;
+	letter-spacing: 0.5px;
+	width: 280px;
+	text-decoration: none;
+}
+
+.info1:hover{
+	color: grey;
+}
+
+
+/*=========ADDRESS CONTAINER RIGHT========*/
+
+.address_container_right{
+	margin-top: 20px;
+	display:block;
+	width: 20%;
+	float: left;
+	height:450px;
+	//background-color: yellow;
+	text-align:right;
+}
+
+
+.maero1{
+	font-size: 18px;
+}
+
+.director{
+	font-size: 18px;
+	margin-top: 0.5px;
+
+}
+
+.info2{
+	display: inline-block;
+	margin-top: 3px;
+	font-size: 15px;
+	text-decoration: none;
+}
+
+.info2:hover{
+	color:grey;
+}
+
+
+.phone1{
+	display:block;
+	margin-top: 3px;
+	font-size: 18px;
+
+
+}
+
+
+
+.second_address{
+
+	margin-top: 40px;
+}
+
+
+/*=========ADDRESS CONTAINER RIGHT AGAIN========*/
+.address_container_right_again{
+	margin-top: 20px;
+	display:block;
+	width: 20%;
+	float: left;
+	height:450px;
+	//background-color: orange;
+	text-align: right;
+
+}
+
+.maero1{
+	font-size: 18px;
+}
+
+.director{
+	font-size: 18px;
+	margin-top: 0.5px;
+}
+
+.info2{
+	display: inline-block;
+	margin-top: 3px;
+	font-size: 15px;
+	text-decoration: none;
+}
+
+.info2:hover{
+	color:grey;
+}
+
+
+.phone1{
+	display:block;
+	margin-top: 3px;
+	font-size: 18px;
+
+
+}
+
+
+
+.second_address{
+
+	margin-top: 40px;
+}
+
+
+/*=======BORDER BOTTOM=========*/
+
+.bottom22{
+	margin-top: 350px;
+}

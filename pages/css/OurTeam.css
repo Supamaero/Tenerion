@@ -1,0 +1,180 @@
+.navigation_bar{
+    width: 80%;
+}
+
+
+.main_container{
+    height: 200vh;
+    width: 80%;
+    background-color: white;
+   
+}
+
+.Our_Team_Paragraph {
+    display: inline-block;
+    font-size: 60px;
+    font-weight:100;
+    letter-spacing: 1px;
+}
+
+
+.the_tenerion_group{
+    margin-top:60px;
+    display: inline-block;
+    font-size: 25px;
+    letter-spacing:0.5px;
+    word-spacing: 2px;
+}
+
+
+
+/*==================FLEX CONTAINER===========*/
+.border_flex_container {
+    display: flex;
+    width: 100%;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    height: 50px;  
+}
+
+
+.flex_container1{
+    flex-grow: 1;
+    border-bottom: 1px solid black;
+    
+}
+
+.flex_container2{
+    flex-grow: 1;
+    margin: 0 20px;
+    border-bottom: 1px solid black;
+    
+}
+
+.flex_container3{
+    flex-grow: 1;
+    border-bottom: 1px solid black;
+    
+}
+
+
+.flex_container_paragraph1{
+    font-size:20px;
+}
+
+.flex_container_paragraph2{
+    font-size:17px;
+    margin-top: 5px;
+}
+
+
+/*===============FLEX CONTAINER PARAGRAPH HOVER===========*/
+
+
+
+
+/*============FLEX BOX IMAGES=========*/
+
+
+.flex_box_images_container{
+    display:flex;
+    width: 100%;
+    height: 370px;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.flex_box_image1{
+    background-image:url(../image/profile1.jpg);
+    background-size: cover;
+    flex-grow:1;
+}
+
+
+.flex_box_image2{
+    background-image:url(../image/profile1.jpg);
+    background-size: cover;
+    flex-grow:1;
+    margin: 0 20px;
+}
+
+.flex_box_image3{
+    background-image:url(../image/profile1.jpg);
+    background-size: cover;
+    flex-grow:1;
+}
+
+.flex_box_image4{
+   background-image:url(../image/profile1.jpg);
+    background-size: cover;
+    flex-grow:1;
+  
+}
+
+.flex_box_image5{
+    background-image:url(../image/profile1.jpg);
+    background-size: cover;
+    flex-grow:1;
+    margin: 0 20px;
+}
+
+
+.flex_box_image6{
+    background-image:url(../image/profile1.jpg);
+    background-size: cover;
+    flex-grow:1;
+}
+
+
+
+/*========================FLEX BOX IMAGES HOVER=======================*/
+
+.flex_box_image1:hover{
+    background-image:linear-gradient(rgba(211, 211, 211, 0.19), rgba(211, 211, 211, 0.50)), url(../image/profile1.jpg);
+    background-size: cover;
+    flex-grow:1;
+}
+
+
+.flex_box_image2:hover{
+    background-image:linear-gradient(rgba(211, 211, 211, 0.19), rgba(211, 211, 211, 0.50)), url(../image/profile1.jpg);
+    background-size: cover;
+    flex-grow:1;
+}
+
+
+.flex_box_image3:hover{
+    background-image:linear-gradient(rgba(211, 211, 211, 0.19), rgba(211, 211, 211, 0.50)), url(../image/profile1.jpg);
+    background-size: cover;
+    flex-grow:1;
+}
+
+
+.flex_box_image4:hover{
+    background-image:linear-gradient(rgba(211, 211, 211, 0.19), rgba(211, 211, 211, 0.50)), url(../image/profile1.jpg);
+    background-size: cover;
+    flex-grow:1;
+}
+
+
+.flex_box_image5:hover{
+    background-image:linear-gradient(rgba(211, 211, 211, 0.19), rgba(211, 211, 211, 0.50)), url(../image/profile1.jpg);
+    background-size: cover;
+    flex-grow:1;
+}
+
+
+.flex_box_image6:hover{
+    background-image:linear-gradient(rgba(211, 211, 211, 0.19), rgba(211,211, 211, 0.50)), url(../image/profile1.jpg);
+    background-size: cover;
+    flex-grow:1;
+}
+
+
+/*======BORDER-BOTTOM-FOOTER=======*/
+
+
+} 

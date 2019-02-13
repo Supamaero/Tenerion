@@ -1,0 +1,299 @@
+body{
+    margin: 6px;
+}
+/* color = #002F41 */
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0; 
+    color: black;
+}
+
+
+
+
+/*=====================NAVIGATION BAR===============*/
+.navigation_bar{
+    width:90%;
+    background-color:white;
+    height: 20vh;
+    margin-right: auto;
+    margin-left: auto;
+   // border:2px solid black;
+        
+}
+
+
+/*=====================NAVIGATION MENU===============*/
+
+.navigation_menu1{
+    //border:2px solid black;
+    float: left;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 50px;
+    padding-top:0;
+    padding-bottom:0;
+    padding-right:13px;
+    letter-spacing: 0.5px;
+    word-spacing: 1px;
+}
+
+.navigation_menu2{
+   // border:2px solid black;
+    float: left;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 20px;
+    margin-top:50px;
+    padding:0 13px;
+    letter-spacing:0.5px;
+    word-spacing: 1px;
+}
+
+
+.navigation_menu3{
+    //border:2px solid black;
+    display:block;
+    text-decoration: none;
+    letter-spacing: 1px;
+    font-size: 40px;
+    float: right;
+    margin-top:40px;
+    
+}
+
+.navigation_menu1:hover{
+    color:darkorange;
+}
+
+.navigation_menu2:hover{
+    color:darkorange;
+    
+}
+
+.navigation_menu3:hover{
+    color:darkorange;
+}
+
+
+/*=====================MAIN CONTAINER=================*/
+.main_container{
+    //border:2px solid black;
+    width: 90%;
+    margin-right:auto;
+    margin-left:auto;
+    //background-color:#F3F3F3;
+    height:285vh;
+    margin-bottom: 50px;
+}
+
+
+/*==========================BODY===============*/
+
+.body_img{
+   // border:2px solid red;
+    background-image: url(../images/architect1.jpg);
+    background-size:cover;
+    width: 95%;
+    height: 650px;
+    float: left;
+}
+
+
+
+.container_right {
+    // border:2px solid red;
+    float:right;
+    width:5%;
+    background-color: #002F41;
+    height:650px; 
+}
+
+.container_right:after{
+    display:block;
+    content: "";
+    clear:both;
+      
+}
+
+.icon_right {
+     //border:2px solid red;
+    display: block;
+    margin-top: 350px;
+    margin-right:auto;
+    margin-left:auto;
+    
+}
+
+
+.Tenerion_group{
+     //border:2px solid red;
+    display: inline-block;
+    width: 400px;
+    margin-top: 60px;
+    margin-left: 122px;
+    font-size: 20px;
+    line-height: 25px;
+    letter-spacing: 0.5px;
+}
+
+.border_bottom1 {
+     //border:2px solid red;
+    border-bottom: 2px solid #002F41;
+    width: 80%;
+    margin-right:auto;
+    margin-left:auto;
+    margin-top: 30px;
+}
+
+
+.the_group{
+    // border:2px solid red;
+    display: inline-block;
+    margin-top:30px;
+    margin-left: 122px;
+    font-size: 20px;
+    letter-spacing: 0.5px;
+}
+
+
+.list_container {
+     //border:2px solid red;
+    display: flex;
+    width: 80%;
+    height: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 30px;
+    
+    
+    
+}
+
+.list_container1 {
+     //border:2px solid red;
+    border-bottom: 2px solid #002F41;
+    flex-grow: 1;
+   
+    
+    
+}
+    
+.list_container2 {
+     //border:2px solid red;
+    border-bottom: 2px solid #002F41;
+    flex-grow: 1;
+    margin-right: 25px;
+    margin-left: 25px;
+   
+    
+}
+    
+.list_container3 {
+     //border:2px solid red;
+    border-bottom: 2px solid #002F41;
+    flex-grow: 1;
+    margin-right:25px;
+    
+}
+    
+.list_container4 {
+     //border:2px solid red;
+    border-bottom: 2px solid #002F41;
+    flex-grow: 1;
+    
+    
+}
+
+.Ipsizzle{
+     //border:2px solid red;
+    font-size: 25px;
+}
+
+
+.Lorem_ipsizzle{
+     //border:2px solid red;
+    margin-top:35px;
+    font-size: 20px;
+    word-spacing:1.6px;
+    line-height: 18px;
+    letter-spacing: 1px;
+}
+
+.num{
+     //border:2px solid red;
+    margin-top: 40px;
+    font-size:20px;
+}
+
+
+.second_img{
+    // border:2px solid red;
+    background-image: url(../images/access1.jpg);
+    background-size:cover;
+    width:400px;
+    height: 400px;
+    //float: left;
+   // margin-top: 100px;
+    clear: both;
+}
+.second_container {
+     //border:2px solid red;
+    width: 3%;
+    height: 200px;
+    //float: left;
+    background-color: #002F41;
+   // margin-top: 190px;
+    clear: right;
+    
+   
+}
+
+.second_container:after {
+    display: block;
+    clear:both;
+    content:"";
+}
+
+.d-flex{
+    margin-top:100px;
+    display: flex;
+    align-items: center;
+}
+
+
+.Lorem_ipsizzle_dolor {
+     //border:2px solid red;
+    display: block;
+    width: 500px;
+    //float: left;
+   // margin-top: 170px;
+    margin-left: 40px;
+    font-size: 17px;
+    letter-spacing: 0.5px;
+    word-spacing: 1px;
+    line-height: 18px;
+    clear: right;
+}
+
+.Lorem_ipsizzle_dolor:after {
+    display: block;
+    clear:both;
+    content:"";
+}
+
+
+.bottom22{
+    margin-top: 10px;
+    border-bottom: 6px solid #002F41;
+    width: 90%;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
